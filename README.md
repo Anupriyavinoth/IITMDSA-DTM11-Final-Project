@@ -6,7 +6,7 @@ This project aims to perform customer segmentation analysis on an E-commerce dat
 
 The data was collected from a well known E-commerce website over a period of time based on the customer’s search profile.
 
-Variable Description:
+# Variable Description:
 
 Column               Description
 Cust_ID              Unique numbering for customers
