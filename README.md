@@ -8,10 +8,10 @@ The data was collected from a well known E-commerce website over a period of tim
 
 # Variable Description:
 
-* Column               Description
-* Cust_ID              Unique numbering for customers
-* Gender               Gender of the customer
-* Orders               Number of orders placed by each customer in the past
+* Column         -      Description
+* Cust_ID        -      Unique numbering for customers
+* Gender         -     Gender of the customer
+* Orders         -      Number of orders placed by each customer in the past
 
 Remaining 35 features (brands) contains the number of times
 customers have searched them
