@@ -37,12 +37,12 @@ customers have searched them
      
    * Visualize the data with the help of Matplotlib or Seaborn to get better understanding of the features.
      
-       > In my project I have used Seaborn's
-       > Boxplot(To visualize the Outliers present in the data)
-       > Barplot (To get to 10 customer ID based on Total searches)
-       > Countplot (To get gender count and Prior orders count)
-       > Heatmap (To find the Correlation)
-       > Histogram (To get know how the data is distributed)
+       > In my project I have used Seaborn's,
+       > Boxplot(To visualize the Outliers present in the data),
+       > Barplot (To get to 10 customer ID based on Total searches),
+       > Countplot (To get gender count and Prior orders count),
+       > Heatmap (To find the Correlation),
+       > Histogram (To get know how the data is distributed).
        
 # CONCLUSION:
 
